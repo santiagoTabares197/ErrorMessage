@@ -1,0 +1,45 @@
+.contenedor{
+    border: 3px solid blue;
+    height: 130px;
+    width: 500px;
+    
+}
+.headerContenedor{
+    color: white;
+    background-color: blue ;
+    width: 506px;
+    height: 30px; 
+    border-top-left-radius: 8px;
+    border-top-right-radius:8px;
+}
+.message{
+    position: relative;
+    right: 150px;
+    top: 8px;
+  
+}
+.p{
+    position: relative;
+    left: 10px;
+    top: 20px;
+}
+.boton{
+    position: relative;
+    top: 20px;
+    left: 18px;
+    height: 40px;
+    float: left;
+}
+.boton1{
+    height: 20px;
+    position: relative;
+    bottom: 35px;
+    right: 4px;
+    float: right;
+    cursor: pointer;
+}
+input{
+    position: relative;
+    left: 12px;
+   width: 80px;
+}
